@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_screen3"
+    tools:context=".Fitur.LaranganActivity">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp">
+
+        <TextView
+            android:id="@+id/textSenin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:text="Jika kita mendengar kata larangan, sudah pasti hal itu tidak boleh dilakukan. Larangan puasa apa saja yang harus kita hindari? Mari simak penjelasannya di bawah ini!
+                \n\n 1. Makan dan minum dengan sengaja di siang hari saat tengah menjalankan ibadah puasa. Jika kita melanggarnya sudah pasti puasa kita akan batal.
+                \n\n 2. Melakukan hubungan badan di siang hari.
+		\n\n 3. Memasukkan makanan ke dalam perut.
+		\n\n 4. Mengeluarkan mani dalam keadaan terjaga.
+		\n\n 5. Muntah dengan sengaja.
+		\n\n 6. Keluarnya darah haid dan nifas.
+		\n\n 7. Bersaksi palsu.
+		\n\n 8. Melakukan perbuatan yang sia-sia.
+		\n\n 9. Murtad atau keluar dari agama Islam."/>
+    </android.support.v7.widget.CardView>
+</ScrollView>

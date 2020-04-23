@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_screen3"
+    tools:context=".Fitur.SyaratActivity">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:text="Ada beberapa aturan dalam puasa sunnah yang mesti diperhatikan.\n\nPertama: Boleh berniat puasa sunnah setelah terbit fajar jika belum makan, minum dan selama tidak melakukan hal-hal yang membatalkan puasa. Berbeda dengan puasa wajib maka niatnya harus dilakukan sebelum fajar.\n\nKedua: Boleh menyempurnakan atau membatalkan puasa sunnah.\n\nKetiga: Seorang istri tidak boleh berpuasa sunnah sedangkan suaminya bersamanya kecuali dengan seizin suaminya.
+" />
+
+    </android.support.v7.widget.CardView>
+
+
+</ScrollView>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_screen3"
+    tools:context=".Fitur.HikmahActivity">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp">
+
+        <TextView
+            android:id="@+id/textSenin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:text="Puasa memiliki beberapa hikmah, diantaranya adalah :
+                \n\n 1. Melatih diri untuk menjadi pribadi yang lebih tabah dan sabar.
+                \n\n 2. Tercapainya derajat ketakwaan seseorang.
+		\n\n 3. Melatih seseorang menjadi lebih menghargai waktu.
+		\n\n 4. Melatih seseorang menjadi lebih bersyukur.
+		\n\n 5. Menjadikan sesorang lebih peduli terhadap sesama.
+		\n\n 6. Mempererat tali silaturami.
+		\n\n 7. Semua hal yang dilakukan adalah ibadah.
+		\n\n 8. Membiasakan diri untuk behati-hati dalam berbuat.
+		\n\n 9. Melatih diri untuk hidup sederhana.
+		\n\n 10. Menunjukkan keseimbangan hidup.
+		\n\n 11. Setiap ibadah memiliki tujuan.
+		\n\n 12. Menjadi pribadi yang lebih baik.
+		\n\n 13. Hikmah puasa dalam kesehatan.
+" />
+    </android.support.v7.widget.CardView>
+
+
+</ScrollView>

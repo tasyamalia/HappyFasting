@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_screen3"
+    tools:context=".Fitur.PuasaActivity">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp">
+
+        <TextView
+            android:id="@+id/JenisPuasa"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:text="Macam-macam puasa sunnah\n\nPuasa Hari Arofah\nYaitu puasa pada hari ke-9 bulan Dzuhijjah. Keutamaan: akan dihapuskan dosa-dosa pada tahun lalu dan dosa-dosa pada tahun yang akan datang (HR. Muslim). Yang dimaksud dengan dosa-dosa di sini adalah khusus untuk dosa-dosa kecil, karena dosa besar hanya bisa dihapus dengan jalan bertaubat.
+
+\n\nPuasa Muharrom\nYaitu puasa pada bulan Muharrom terutama pada hari Assyuro’. Keutamaannya adalah bahwa puasa di bulan ini adalah puasa yang paling utama setelah puasa bulan Romadhon (HR. Bukhori)
+
+\n\nPuasa Assyuro’\nHari Assyuro’ adalah hari ke-10 dari bulan Muharrom. Nabi sholallohu ‘alaihi wasssalam memerintahkan umatnya untuk berpuasa pada hari Assyuro’ ini dan mengiringinya dengan puasa 1 hari sebelum atau sesudahnhya. Hal ini bertujuan untuk menyelisihi umat Yahudi dan Nasrani yang hanya berpuasa pada hari ke-10. Keutamaan: akan dihapus dosa-dosa (kecil) di tahun sebelumnya (HR. Muslim).
+
+\n\nPuasa Senin dan Kamis\nNamun tidak ada kewajiban mengiringi puasa hari Senin dengan puasa hari Kamis atau sebaliknya. Keduanya merupakan hari di mana amal-amal hamba diangkat dan diperlihatkan kepada Alloh.
+
+\n\nPuasa 3 Hari Setiap Bulan\nDisunnahkan untuk melakukannya pada hari-hari putih (Ayyaamul Bidh) yaitu tanggal 13, 14, dan 15 setiap bulan. Sehingga tidaklah benar anggapan sebagian orang yang menganggap bahwa puasa pada harai putih adalah puasa dengan hanya memakan nasi putih, telur putih, air putih, dsb.
+" />
+
+    </android.support.v7.widget.CardView>
+
+</ScrollView>

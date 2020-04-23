@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_screen3"
+    tools:context=".Fitur.NiatActivity">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp">
+
+        <TextView
+            android:id="@+id/textSenin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:text="Niat Puasa Sunah Senin.\n\nوَيْتُ صَوْمَ يَوْمَ اْلاِثْنَيْنِ سُنَّةً ِللهِ تَعَالَى
+        \n\nNAWAITU SAUMA YAUMAL ITSNAINI SUNNATAN LILLAHI TANA’ALA
+        \nArtinya : Saya niat puasa hari Senin, sunnah karena Allah ta’ala.
+
+        \n\n\nNiat Puasa Sunah Senin.\n\nنَوَيْتُ صَوْمَ يَوْمَ الْخَمِيْسِ سُنَّةً ِللهِ تَعَالَى
+        \n\nNAWAITU SAUMA YAUMAL KHOMIISI SUNNATAN LILLAHI TAA’ALA
+        \nArtinya : Saya niat puasa hari Kamis, sunnah karena Allah ta’ala.
+
+        \n\n\nNiat Puasa Sunah Tanggal 1-7 Zhulhijjah.\n\nنَوَيْتُ صَوْمَ شَهْرِ ذِي الْحِجَّةِ سُنَّةً ِللهِ تَعَالَى
+        \n\nNawaitu shauma syahri dhilhijjati sunnatan lillaahi ta’aala
+        \nArtinya : Saya niat puasa sunah bulan Dzulhijjah karena Allah Ta'ala
+
+        \n\n\nNiat puasa sunah arafah.\n\nنَوَيْتُ صَوْمَ عَرَفَةَ سُنَّةً ِللهِ تَعَالَى
+        \n\nNawaitu Shauma ‘arofata sunnatan lillaahi ta’aala
+        \nArtinya :Saya niat puasa sunnah arafah karena Allah Ta'ala
+
+        \n\n\nNiat Puasa Tarwiyah Tanggal 8 Zhulhijjah.\n\nنَوَيْتُ صَوْمَ التَّرْوِيَةَ سُنَّةً ِللهِ تَعَالَى
+        \n\nNawaitu shaumat tarwiyata sunnatan lillaahi ta’aala
+        \nArtinya :Saya niat puasa sunnah tarwiyah karena Allah Ta'ala
+
+        \n\n\nNiat Puasa Yaumud Bidh.\n\nنَوَيْتُ صَوْمَ اَيَّامَ اْلبِيْضِ سُنَّةً لِلهِ تَعَالَى
+        \n\nNAWAITU SAUMA AYYAMI BIDH SUNNATAN LILLAHI TA’ALA
+        \nArtinya : Saya niat puasa pada hari-hari putih , sunnah karena Allah ta’ala.
+
+        \n\n\nNiat Puasa Ramadhan.\n\nنَوَيْتُ صَوْمَ غَدٍ عَنْ أَدَاءِ فَرْضِ الشَّهْرِ رَمَضَانَ هَذِهِ السَّنَةِ لِلَّهِ تَعَالَى
+        \n\nNawaitu shouma ghodin ‘an adaa-i fardhisy syahri romadhoona hadzihis sanati lillaahi ta’aala
+        \nArtinya: Aku niat puasa pada hari esok untuk melaksanakan kewajiban bulan Ramadhan tahu ini karena Allah Ta’ala" />
+
+    </android.support.v7.widget.CardView>
+
+
+</ScrollView>

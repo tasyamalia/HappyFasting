@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_screen3"
+    tools:context=".Fitur.RukunActivity">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp">
+
+        <TextView
+            android:id="@+id/textSenin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:text="Rukun adalah sesuatu yang harus dikerjakan atau dipenuhi dalam suatu ibadah yang berhubungan erat dengan keabsahan dari ibadah yang sedang dikerjakan. Sedangkan rukun puasa adalah sebagai berikut:
+                \n\n 1. Berniat untuk mengerjakan puasa.
+                \n\n 2. Menahan diri dari segala sesuatu yang membatalkan puasa dari terbitnya fajar sampai terbenamnya matahari." />
+
+
+    </android.support.v7.widget.CardView>
+
+
+</ScrollView>

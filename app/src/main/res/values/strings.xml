@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Happy Fasting</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+    <string name="slide_1_title"></string>
+    <string name="slide_1_desc"></string>
+
+    <string name="slide_2_title">Happy Fasting</string>
+    <string name="slide_2_desc">Aplikasi ini dibuat untuk memudahkan pengguna dalam merencanakan puasanya.</string>
+
+    <string name="color_itemV">#37CFF4</string>
+
+    <string name="slide_3_title">Happy Fasting</string>
+    <string name="slide_3_desc">Aplikasi ini menyediakan fitur Kalender Puasa yang ditampilkan dengan berbagai warna yang menarik.</string>
+
+    <string name="slide_4_title">Hutang Puasa</string>
+    <string name="slide_4_desc">Di Happy Fasting juga memiliki fitur berupa perhitungan hutang puasa. Dengan fitur ini pengguna dapat mengetahui berapa hutang yang mereka miliki.</string>
+
+
+    <string name="slide_5_title">Info Puasa</string>
+    <string name="slide_5_desc">Happy Fasting memiliki fitur berupa info puasa. Info puasa ini menampilkan niat, macam-macam puasa, syarat, rukun, larangan serta hikmah menjalankan puasa.</string>
+
+    <string name="title_activity_bottom">BottomActivity</string>
+    <string name="title_home">Kalender</string>
+    <string name="title_dashboard">Hutang</string>
+    <string name="title_notifications">Info</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+</resources>
+
